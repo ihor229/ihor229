@@ -1,4 +1,4 @@
-#  Senior Developer
+#  Senior Developer (Frontend | Backend | DevOps)
 
 ### 💻Technology
 <p align="center">
